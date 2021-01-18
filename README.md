@@ -1,6 +1,6 @@
 # Speech emotion recognition using dilated CNN and attention based sliding LSTM with 3D log mel-spectrogram
 
-
+http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=daa95465bebc6229ffe0bdc3ef48d419
 
 ## 1. Model
 
